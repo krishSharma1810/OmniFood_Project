@@ -1,11 +1,3 @@
-console.log("hello world!!!");  // for print
-
-const myName = "Nityam Lover Of Mansi";  //const keyword to create variable
-const h1=document.querySelector(".hero-head");   //here we can manipulat primary heading by using a variable h1.
-//in this above line query selector is used to select the class and saved to variable h1.
-
-console.log(myName);
-
 
 h1.addEventListener("click",function()
 {
